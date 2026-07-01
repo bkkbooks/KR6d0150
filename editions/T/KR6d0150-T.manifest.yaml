@@ -1,0 +1,98 @@
+canonical_identifier: bkk:krp/KR6d0150/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0150/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋摩訶般若波羅蜜經覺意三昧
+  identifiers:
+    krp: KR6d0150
+    cbeta: T46n1922
+    cbeta_old_id: T46n1922
+    authorityid: CA0003142
+    json_key: T1922
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1922.xml
+    old_id: T46n1922
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0150_000-T.yaml, hash: 'sha256:979a29568f4856421e42e340bc0dea42dec3e292bdbb10dfcbf2f24b1da4d7bc'}
+  - {seq: 1, filename: KR6d0150_001-T.yaml, hash: 'sha256:8213dc38eaf769459b5f3c466710ea791c0426c7554cf2fde78f19be7768b926'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0150_000-T.markers.yaml, hash: 'sha256:8f42ec4106d17ab98f0474e1e980fd948891300f52710aa8bf1d45bbd6773c2c'}
+  - {seq: 1, role: markers, filename: assets/KR6d0150_001-T.markers.yaml, hash: 'sha256:dd0c3c226513c4936f58e438a4ab616f0b3f5461f27806edc9e46971d9f4602b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0150_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9481
+  label: 釋摩訶般若波羅蜜經覺意三昧
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0150_T_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 1 辯法相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0150_T_001-mulu-2
+    span:
+    - body
+    - 766
+    - 766
+  label: 2 釋覺意三昧名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0150_T_001-mulu-3
+    span:
+    - body
+    - 2186
+    - 2186
+  label: 3 釋覺意三昧方便行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0150_T_001-mulu-4
+    span:
+    - body
+    - 2832
+    - 2832
+  label: 4 釋覺意三昧明心相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0150_T_001-mulu-5
+    span:
+    - body
+    - 3623
+    - 3623
+  label: 5 釋覺意三昧入觀門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0150_T_001-mulu-6
+    span:
+    - body
+    - 8144
+    - 8144
+  label: 6 釋覺意三昧證相門
+  type: mulu
+  level: 1
+hash: sha256:a5e78b6681750f4ed0389df0fb1956ec3e9a4617c57b05f026db7791bcfe124e

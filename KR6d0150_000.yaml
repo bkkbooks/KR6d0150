@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0150/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋摩訶般若波羅蜜經覺意三昧
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1922.xml
+    old_id: T46n1922
+hash: sha256:979a29568f4856421e42e340bc0dea42dec3e292bdbb10dfcbf2f24b1da4d7bc
