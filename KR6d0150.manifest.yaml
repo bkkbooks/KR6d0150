@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0150_000.yaml, hash: 'sha256:979a29568f4856421e42e340bc0dea42dec3e292bdbb10dfcbf2f24b1da4d7bc'}
-  - {seq: 1, filename: KR6d0150_001.yaml, hash: 'sha256:20f08bfb568b5c593605ad144a039a68bcdc0288123b8529f8f06bba02d70f88'}
+  - {seq: 1, filename: KR6d0150_001.yaml, hash: 'sha256:8213dc38eaf769459b5f3c466710ea791c0426c7554cf2fde78f19be7768b926'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0150_001.markers.yaml, hash: 'sha256:1f5e5b2aa9bc70ff03213a66e7e57736b8bb0b4abce477926c55414eccc8d4d8'}
+  - {seq: 0, role: markers, filename: assets/KR6d0150_000.markers.yaml, hash: 'sha256:f8690c42bfbb408ea45b20ae26be130bf9376c40c7714bc6e0f5b2c54025bb14'}
+  - {seq: 1, role: markers, filename: assets/KR6d0150_001.markers.yaml, hash: 'sha256:271f1b0162522b0e5321e81f8c91af49bb6e5a213af1a9d1264ee678d45aa002'}
 table_of_contents:
 - ref:
     seq: 1
@@ -99,7 +100,4 @@ table_of_contents:
   label: 6 釋覺意三昧證相門
   type: mulu
   level: 1
-hash: sha256:317426dcd84db73aa57e49d1529928ea6621fe9b67430ec180e9f0daa002e4fc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3a60f8cc76290950ad70d583fc77f7fe2af72e05c8d51e483c4c95f806d79eb8
