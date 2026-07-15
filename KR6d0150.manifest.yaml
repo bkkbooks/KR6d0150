@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0150/v1
 canonical_location: https://kanripo.org/bkk/KR6d0150/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 釋摩訶般若波羅蜜經覺意三昧
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0150_000.yaml, hash: 'sha256:979a29568f4856421e42e340bc0dea42dec3e292bdbb10dfcbf2f24b1da4d7bc'}
-  - {seq: 1, filename: KR6d0150_001.yaml, hash: 'sha256:8213dc38eaf769459b5f3c466710ea791c0426c7554cf2fde78f19be7768b926'}
+  - {seq: 1, filename: KR6d0150_001.yaml, hash: 'sha256:f04e1cf638fe7c634e217fd70bfbe57bb20b2781d31e6a46752f6d69d536522e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0150_000.markers.yaml, hash: 'sha256:f8690c42bfbb408ea45b20ae26be130bf9376c40c7714bc6e0f5b2c54025bb14'}
-  - {seq: 1, role: markers, filename: assets/KR6d0150_001.markers.yaml, hash: 'sha256:271f1b0162522b0e5321e81f8c91af49bb6e5a213af1a9d1264ee678d45aa002'}
+  - {seq: 1, role: markers, filename: assets/KR6d0150_001.markers.yaml, hash: 'sha256:1918a356f96f6e7eb87537eb0bb2635df9bdd438f5600e77dcfa2708e9e7bfee'}
 table_of_contents:
 - ref:
     seq: 1
@@ -100,4 +100,7 @@ table_of_contents:
   label: 6 釋覺意三昧證相門
   type: mulu
   level: 1
-hash: sha256:3a60f8cc76290950ad70d583fc77f7fe2af72e05c8d51e483c4c95f806d79eb8
+hash: sha256:ea063f7a51f02043f282ba59e6b102f51787049f7a08bfc462583fcddb5b5999
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
